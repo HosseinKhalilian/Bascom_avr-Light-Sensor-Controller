@@ -8,7 +8,7 @@
 
 ### This repository is Automatic LDR light control circuit.
 Resistance P1 is for setting the set point. The set point value and the LDR value are displayed on the LCD.
-If the LDR value is lower than the set point value, the relay will be connected. 
+If the LDR value is lower than the set point value, the relay will be connected and in the otherwise relay not be connected.
 
 ###### This repository contains Source Files & Proteus Circuit Simulation Files. 
 
