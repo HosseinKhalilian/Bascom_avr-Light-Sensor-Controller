@@ -1,4 +1,4 @@
-# Bascom_avr-DC-Light-Sensor-Controller
+# AVR Light Sensor Controller
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
